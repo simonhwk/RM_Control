@@ -18,10 +18,12 @@
 ### 3D Control
 
 - **3D Closed Loop Control of Multiple Truss Modular Robot Links Using Retinas for Localization**
+  
 [![3D Control Demonstration](https://img.youtube.com/vi/ZoCtrvHtx5w/hqdefault.jpg)](https://youtu.be/ZoCtrvHtx5w)
 
 
 ### Tetrahedron Parking to a Payload
 
 - **Implementation of closed-loop tetrahedron backward crawl banking to a payload(ball) using retinas for localization**
+  
 [![Parking Demonstration](https://img.youtube.com/vi/hzBCtf3YlrA/hqdefault.jpg)](https://youtu.be/hzBCtf3YlrA)
