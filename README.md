@@ -21,5 +21,5 @@
 
 ### Tetrahedron Parking to a Payload
 
-- **Implementation of closed-loop tetrahedron backward crawl banking to a payload(ball) using retinas for localization**
+- **Closed-loop tetrahedron backward crawl banking to a payload(ball) using retinas for localization**
 [![Parking Demonstration](https://img.youtube.com/vi/hzBCtf3YlrA/hqdefault.jpg)](https://youtu.be/hzBCtf3YlrA)
