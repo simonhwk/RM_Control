@@ -23,3 +23,8 @@
 
 - **Closed-loop tetrahedron backward crawl banking to a payload(ball) using retinas for localization**
 [![Parking Demonstration](https://img.youtube.com/vi/hzBCtf3YlrA/hqdefault.jpg)](https://youtu.be/hzBCtf3YlrA)
+
+### Tetrahedron Toppling to a Payload
+
+- **Closed-loop tetrahedron toppling to a payload(ball) using retinas for localization**
+[![Toppling Demonstration](https://img.youtube.com/vi/hMbpy2y7sEA/hqdefault.jpg)](https://youtu.be/hMbpy2y7sEA)
