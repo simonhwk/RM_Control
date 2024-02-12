@@ -28,3 +28,8 @@
 
 - **Closed-loop tetrahedron toppling to a payload(ball) using retinas for localization**
 [![Toppling Demonstration](https://img.youtube.com/vi/hMbpy2y7sEA/hqdefault.jpg)](https://youtu.be/hMbpy2y7sEA)
+
+### Autonomous Payload Experiment: Fetch
+
+- **Closed-loop tetrahedron fetching a payload(ball) using retinas for localization**
+[![Fetch Demonstration](https://img.youtube.com/vi/vcuF5f8EXYU/hqdefault.jpg)](https://youtu.be/vcuF5f8EXYU)
