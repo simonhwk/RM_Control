@@ -33,3 +33,8 @@
 
 - **Closed-loop tetrahedron fetching a payload(ball) using retinas for localization**
 [![Fetch Demonstration](https://img.youtube.com/vi/vcuF5f8EXYU/hqdefault.jpg)](https://youtu.be/vcuF5f8EXYU)
+
+### Autonomous Payload Experiment: Fetch (Side View)
+
+- **Closed-loop tetrahedron fetching a payload(ball) using retinas for localization**
+[![Fetch Demonstration](https://img.youtube.com/vi/3ssR4cvd23c/hqdefault.jpg)](https://youtu.be/3ssR4cvd23c)
